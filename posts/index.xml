@@ -5,7 +5,7 @@
     <link>https://sherjy.github.io/posts/</link>
     <description>Recent content in Posts on Spectre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 22 Dec 2020 22:19:29 +0800</lastBuildDate>
     
 	<atom:link href="https://sherjy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -17,13 +17,7 @@
       <pubDate>Tue, 22 Dec 2020 22:19:29 +0800</pubDate>
       
       <guid>https://sherjy.github.io/posts/hugo-blog-make/</guid>
-      <description>0x00:hugo安装
-添加至path
-0x01:site新建并简单配置hugo，修改toml file
-hugo server -D hugo本地服务器查看 0x02:
-hugo new posts/my-first-post.md draft : true -&amp;gt; draft : false 0x03:打包至/docs文件夹
-hugo -d docs 0x04:在docs文件夹下commit
-git remote add origin git@github.com:xxx/xxx.github.io.git git add . git commit -m &#39;&#39; git push origin master </description>
+      <description>0x00:hugo安装 添加至path 0x01:site新建并简单配置hugo，修改toml file hugo server -D hugo本地服务器查看 0x02: hugo new posts/my-first-post.md draft : true -&amp;gt; draft :</description>
     </item>
     
   </channel>
